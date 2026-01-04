@@ -1,1 +1,1 @@
-from .post_view import PostList, PostDetail
+from .post_view import PostView, PostDetail
